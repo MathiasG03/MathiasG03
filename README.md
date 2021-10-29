@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MathiasG03
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning C# and Kotlin.
 - 📫 How to reach me - galovicmathias@gmail.com
